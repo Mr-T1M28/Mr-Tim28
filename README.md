@@ -8,6 +8,6 @@ About me
 
 Usually do:
 - Analysis data from kaggle.com with python
-- Web with HTML, CSS, JAVASCRIPT
+- Learn about HTML CSS JAVASCRIPT on many source
 
 
